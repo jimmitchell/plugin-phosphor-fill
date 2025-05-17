@@ -1,0 +1,8 @@
+{
+	"version": "1.0.0",
+	"title": "Phosphor Fill Icons",
+	"description": "Adds Phosphor Fill icons to your blog, available for use in templates",
+	"includes": [
+		"/css/phosphor-fill-style.css"
+	]  
+}
