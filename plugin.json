@@ -3,6 +3,7 @@
 	"title": "Phosphor Fill Icons",
 	"description": "Adds Phosphor Fill icons to your blog, available for use in templates",
 	"includes": [
+		"phosphor-fill-preload.html",
 		"/css/phosphor-fill-style.css"
 	]  
 }
